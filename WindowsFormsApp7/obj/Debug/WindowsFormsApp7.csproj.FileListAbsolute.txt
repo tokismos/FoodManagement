@@ -1,0 +1,74 @@
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\tokis\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MySql.Data.dll
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\Google.Protobuf.dll
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MySql.Data.xml
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.adminPanel.resources
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\tokis\Desktop\Food\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.choix.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.choix.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.UserControl1.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MySql.Data.dll
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\Google.Protobuf.dll
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MySql.Data.xml
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.commander.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Panier.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Profil.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Historique.resources
+C:\Users\tokis\Desktop\Food\Nouveau dossier\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Restaurant.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\bin\Debug\MySql.Data.dll
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\bin\Debug\Google.Protobuf.dll
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\bin\Debug\MySql.Data.xml
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.choix.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.commander.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form2.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form3.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Historique.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Panier.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Profil.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Restaurant.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.UserControl1.resources
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\tokis\Desktop\PROJET C#\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
